@@ -1,0 +1,14 @@
+{
+  "name": "example-project",
+  "source": "./src/index.html",
+  "scripts": {
+    "serve": "parcel",
+    "test": "212"
+  },
+  "dependencies": {
+    "parcel": "latest"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2"
+  }
+}
